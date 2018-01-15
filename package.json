@@ -4,7 +4,8 @@
   "description": "Web service for calendar management, written as a development exercise",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
